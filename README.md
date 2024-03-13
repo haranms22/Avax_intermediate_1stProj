@@ -1,6 +1,6 @@
-# SOLIDITY_INTERMEDIATE_1ST project
+# ETH-PROOF_INTERMEDIATE_1ST project
 
-This is the first project in SOLIDITY-Intermediate, in this iam creating a smart contract that implements the require(), assert() and revert() statements.
+This is the first project in  ETH-PROOF-Intermediate, in this iam creating a smart contract that implements the require(), assert() and revert() statements.
 
 ## Getting Started
 
