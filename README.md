@@ -1,4 +1,4 @@
-# ETH-AVAX_INTERMEDIATE_1ST project
+# SOLIDITY_INTERMEDIATE_1ST project
 
 This is the first project in AVAX-Intermediate, in this iam creating a smart contract that implements the require(), assert() and revert() statements.
 
